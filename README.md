@@ -1,1 +1,1 @@
-you can open directlty using Xampp server.
+you can open this app directlty using Xampp server.
